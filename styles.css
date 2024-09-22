@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(238, 231, 211); 
+  font-family: Arial, sans-serif; 
+}
+
+h1 {
+  color: rgb(11, 16, 46); 
+}
+
+h2 {
+  color: rgb(72, 84, 95); 
+}
+
+p {
+  color: rgb(0, 0, 0); 
+}
+
+#borda {
+  border: 3px solid rgb(11, 16, 46);
+}
+
+#Logo{
+  float: right; 
+  margin-left: 100px; 
+}
